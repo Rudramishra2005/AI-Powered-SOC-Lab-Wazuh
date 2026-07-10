@@ -112,7 +112,15 @@ Simulate a PowerShell-based file download from an attacker-controlled Kali Linux
 - T1105 – Ingress Tool Transfer
 
 ---
+# 🚨 Simulated Incidents
 
+- [Incident 01 – PowerShell Execution](./Incident-01-PowerShell-Execution)
+- [Incident 02 – Local User Creation](./Incident-02-Local-User-Creation)
+- [Incident 03 – Failed Login Detection](./Incident-03-Failed-Login)
+- [Incident 04 – PowerShell File Download](./Incident-04-PowerShell-File-Download)
+
+---
+  
 # 📂 Project Structure
 
 ```text
